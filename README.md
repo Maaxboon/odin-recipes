@@ -1,0 +1,1 @@
+Hello, welcome to my first webpage on my journey to becoming a full-stack web developer. I will be writing the page using HTML. The process will also involve using Git and GitHub, which will help me assess how far I am learning to solve problems using code.
